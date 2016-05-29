@@ -24,4 +24,5 @@ public class Potato_StartController : MonoBehaviour {
 	{
 		Application.LoadLevel ("GameScene");
 	}
+
 }
